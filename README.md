@@ -51,5 +51,59 @@ Governance decisions are made in a documented and reviewable manner.
 As a general principle:
 - Significant governance, policy, or strategic decisions are proposed in writing
 - Proposals are reviewed by the appropriate governing body
-- Approved decisions are formally 
-  
+- Approved decisions are formally recorded and retained
+
+Decision records in this repository provide traceability and accountability.
+
+---
+
+## What This Repository Contains
+
+This repository may include:
+
+- Governance principles and role definitions
+- Policies (e.g. conflict of interest, data protection, code of conduct)
+- Decision-making procedures
+- Recorded governance decisions
+- Delegation of authority documentation
+
+---
+
+## What This Repository Does Not Contain
+
+This repository does **not** contain:
+
+- Financial accounts or banking information
+- Confidential contracts or partnership agreements
+- Personal data beyond what is legally required
+- Day-to-day operational procedures
+
+Such materials are managed in restricted internal systems.
+
+---
+
+## Transparency
+
+Publishing governance documentation publicly reflects Blu-H’s commitment to:
+
+- Good governance practice
+- Donor and partner confidence
+- Ethical and responsible operations
+- Long-term organisational resilience
+
+---
+
+## Disclaimer
+
+The documents in this repository are provided for transparency and informational purposes only.  
+They do not constitute legal advice and do not replace the official statutes filed with the Luxembourg authorities.
+
+---
+
+## Contact
+
+For governance-related enquiries, please use the official contact details listed on:
+
+
+https://www.blu-h.org
+
