@@ -35,7 +35,7 @@ Blu-H operates with a clear separation of responsibilities:
 - Non-fiduciary and non-executive
 - Provide scientific, technical, and strategic advice
 - Do not hold decision-making authority
-- Typically serve on a pro bono basis
+- Serve on a pro bono basis
 
 ### Operational Management
 - Responsible for execution of approved strategy and programmes
