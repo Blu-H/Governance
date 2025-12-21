@@ -55,6 +55,9 @@ As a general principle:
 
 Decision records in this repository provide traceability and accountability.
 
+The Blu-H GitHub organisation is jointly administered by multiple founders to reduce
+single-person risk and support continuity.
+
 ---
 
 ## What This Repository Contains
