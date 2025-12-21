@@ -82,4 +82,5 @@ For safety, ethical, and legal reasons, this folder does **not** contain:
 
 These policies form part of Blu-H’s wider governance framework.
 
-For governance structure and oversight documents, see: /Governace/README.md
+For governance structure, authority, and oversight documents, see the
+[Governance documentation](../README.md).
