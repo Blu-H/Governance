@@ -25,7 +25,7 @@ This repository represents the **authoritative reference** for Blu-H governance.
 
 Blu-H operates with a clear separation of responsibilities:
 
-### Board of Directors (Conseil d’administration)
+### Legal Board of Directors (Conseil d’administration)
 - Statutory governing body under Luxembourg law
 - Holds fiduciary responsibility for the organisation
 - Approves strategy, budgets, and major commitments
@@ -39,8 +39,8 @@ Blu-H operates with a clear separation of responsibilities:
 
 ### Operational Management
 - Responsible for execution of approved strategy and programmes
-- Operates within delegated authority approved by the Board
-- Accountable to the Board of Directors
+- Operates within delegated authority approved by the Legal Board
+- Accountable to the Legal Board of Directors
 
 ---
 
