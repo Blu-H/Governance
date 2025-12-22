@@ -18,7 +18,7 @@ The statutes were filed and published in the **Recueil Électronique des Sociét
 
 Any English-language versions provided here are **informational translations only**, published to support transparency, international collaboration, and understanding by non-French-speaking partners, donors, and stakeholders.
 
-In case of any discrepancy, the French RESA version prevails.
+In case of any discrepancy, the French RESA version prevails.  
 
 ## Contents of This Folder
 
