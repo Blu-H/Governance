@@ -18,8 +18,8 @@ The statutes were filed and published in the **Recueil Électronique des Sociét
 
 Any English-language versions provided here are **informational translations only**, published to support transparency, international collaboration, and understanding by non-French-speaking partners, donors, and stakeholders.
 
-In case of any discrepancy, the French RESA version prevails.  
-
+In case of any discrepancy, the French RESA version prevails.  The legally binding Articles of Association of Blu-H ASBL are published in the Luxembourg Recueil Électronique des Sociétés et Associations (RESA) and are accessible via the Luxembourg Business Registers (LBR):
+https://www.lbr.lu/mjrcs-web-front/consult-company/F15177
 ## Contents of This Folder
 
 - **Blu-H_Statutes_FR_RESA.pdf**  
