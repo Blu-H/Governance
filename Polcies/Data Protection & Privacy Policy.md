@@ -265,7 +265,6 @@ This policy is reviewed periodically and updated as Blu-H’s activities, partne
 This policy aligns with:
 - EU data protection principles (GDPR)
 - Luxembourg supervisory authority guidance (CNPD)
-- Blu-H’s **Data, Privacy & Ethics Policy (Public Version)**
 - Blu-H’s **Safeguarding Policy**
 
 **Note:** This is the public version of Blu-H’s Data Protection & Privacy Policy. Additional internal guidance and operational procedures may apply for specific projects, partnerships, or higher-risk contexts.
