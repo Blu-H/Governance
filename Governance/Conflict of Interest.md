@@ -51,9 +51,9 @@ This register documents disclosures of interests by board members, officers, and
 
 | Name             | Position        | Nature of Interest                         | Related Entity or Individual     | Action Taken          | Date Declared  | Reviewed By         |
 |------------------|-----------------|--------------------------------------------|----------------------------------|------------------------|----------------|----------------------|
-| Jane Dupont      | Board Member    | Partner in a firm bidding for consulting   | EcoConsult SARL                  | Abstained from vote    | 2025-11-10     | Governance Officer   |
-| Marc Hennicot    | Treasurer       | Board member of funding partner            | Fondation Aide Globale           | Disclosure recorded    | 2025-10-05     | Secretary General    |
-| Anne Muller      | Executive Dir.  | Family member employed by supplier         | LogisLux SARL                    | Procurement excluded   | 2025-08-12     | Board Chair          |
+| Jane Blogs      | Board Member    | Partner in a firm bidding for consulting   | EcoConsult SARL                  | Abstained from vote    | 2025-11-10     | Governance Officer   |
+| Marc Hennicot   | Treasurer       | Board member of funding partner            | Fondation Aide Globale           | Disclosure recorded    | 2025-10-05     | Secretary General    |
+| Anne Smith      | Executive Dir.  | Family member employed by supplier         | LogisLux SARL                    | Procurement excluded   | 2025-08-12     | Board Chair          |
 
 ---
 
