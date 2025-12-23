@@ -123,12 +123,11 @@ to align with Luxembourg, EU, and humanitarian governance expectations.
 
 **Date:** December 2025  
 **Decision:**  
-Blu-H established a dedicated public governance repository on GitHub to act as the
-canonical source of governance, policy, and oversight documentation.
+Blu-H established a dedicated public governance repository on GitHub to act as the canonical source of governance, policy, and oversight documentation. Certain records and materials will be stored in a **separate controlled system** (not on GitHub) where required for **privacy, security, safeguarding, legal record-keeping, or operational confidentiality** (e.g., signed minutes and resolutions, member register data, safeguarding case information, credentials, and sensitive partner documents).  
 
-**Rationale:**  
-To support transparency, version control, and public trust while maintaining appropriate
-safeguards for sensitive information.
+
+ **Rationale:**  
+ To support transparency, version control, and public trust while maintaining appropriate safeguards for sensitive information and meeting legal and duty-of-care obligations.  
 
 **Decision level:** Founders
 
