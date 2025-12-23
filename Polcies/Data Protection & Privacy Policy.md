@@ -28,7 +28,7 @@ This policy applies to personal data processed by Blu-H in connection with:
 - Newsletter subscriptions and communications  
 - Events, participation, and volunteering (including citizen helpers)  
 - Website use, contact forms, and digital interactions  
-- Governance administration (e.g., board and advisory arrangements)
+- Governance administration (e.g., Legal Board and advisory arrangements)
 
 This policy does **not** cover purely environmental or geospatial data unless it becomes linked to identifiable individuals or communities.
 
