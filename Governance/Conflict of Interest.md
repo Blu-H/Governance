@@ -188,7 +188,7 @@ This register documents disclosures of interests by Legal Board members, officer
 
 In line with Blu-H’s transparency-first approach, a **publishable version** of this register will be maintained on GitHub, with appropriate redactions and safeguards for personal data and security-sensitive information.
 
-## Conflict Disclosure Table
+## Conflict Disclosure Table (sample!)
 
 | Name | Position | Nature of Interest | Related Entity or Individual | Action Taken | Date Declared | Reviewed By |
 |---|---|---|---|---|---|---|
