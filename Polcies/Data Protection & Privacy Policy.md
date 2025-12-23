@@ -15,7 +15,7 @@ Blu-H ASBL operates in the public interest, supporting flood early warning, situ
 
 This Data Protection & Privacy Policy explains how Blu-H handles **personal data** responsibly and lawfully, including data relating to members, supporters, and website visitors. It reflects Blu-H’s commitment to **do-no-harm**, **safety**, and **trust**, especially in vulnerable or disaster-affected contexts.
 
-This policy complements Blu-H’s **Data, Privacy & Ethics Policy (Public Version)** and **Safeguarding Policy**.
+This policy complements Blu-H’s other polcies including the **Safeguarding Policy**.
 
 ---
 
