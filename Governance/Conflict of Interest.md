@@ -39,6 +39,36 @@ operational activities are further defined.
 
 ---
 
+# Conflict of Interest Register – DRAFT Schema
+_Last updated: [YYYY-MM-DD]_
+
+## Purpose
+This register documents disclosures of interests by board members, officers, and key personnel that could give rise to actual or perceived conflicts of interest.
+
+---
+
+## Conflict Disclosure Table
+
+| Name             | Position        | Nature of Interest                         | Related Entity or Individual     | Action Taken          | Date Declared  | Reviewed By         |
+|------------------|-----------------|--------------------------------------------|----------------------------------|------------------------|----------------|----------------------|
+| Jane Dupont      | Board Member    | Partner in a firm bidding for consulting   | EcoConsult SARL                  | Abstained from vote    | 2025-11-10     | Governance Officer   |
+| Marc Hennicot    | Treasurer       | Board member of funding partner            | Fondation Aide Globale           | Disclosure recorded    | 2025-10-05     | Secretary General    |
+| Anne Muller      | Executive Dir.  | Family member employed by supplier         | LogisLux SARL                    | Procurement excluded   | 2025-08-12     | Board Chair          |
+
+---
+
+## Notes
+- All board members are required to complete a declaration of interest annually.
+- New interests must be reported within 30 days of arising.
+- The Governance Officer maintains this register in accordance with the Conflict of Interest Policy.
+
+## Sign-Off
+_Approved by the Board on [YYYY-MM-DD]_
+
+---
+
+
+
 ## Next Steps
 
 This policy will be drafted and approved by the Legal Board before:
