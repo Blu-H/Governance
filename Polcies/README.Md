@@ -40,7 +40,7 @@ Unless otherwise stated, these policies apply to:
 | Policy | Status |
 |------|--------|
 | Safeguarding Policy (Public Version) | Draft |
-| Data Protection and Privacy Policy (Public Version) | Draft / In preparation |
+| Data Protection and Privacy Policy (Public Version) | Draft |
 
 Each policy clearly states:
 
