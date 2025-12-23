@@ -7,7 +7,7 @@ This log does not replace formal board minutes and does not record operational d
 
 ---
 
-## Decision 008 – Publish Data Protection & Privacy Policy and prepare member register  
+## Decision 008 – Publish Data Protection & Privacy Policy and prepare for member register  
 
 **Date:** December 2025  
 
