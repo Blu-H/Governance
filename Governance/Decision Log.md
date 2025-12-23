@@ -7,6 +7,20 @@ This log does not replace formal board minutes and does not record operational d
 
 ---
 
+## Decision 008 – Publish Data Protection & Privacy Policy and prepare member register  
+
+**Date:** December 2025  
+
+**Decision:**  
+Blu-H decided to publish the Data Protection & Privacy Policy (Public Version) on GitHub immediately, while the website update and official legal document store are still being implemented. Blu-H also decided to begin preparing a members database / member register capability as required by the statutes.  
+
+**Rationale:**  
+To support transparency and version control now, while putting the necessary internal record-keeping foundations in place before formal adoption and operational use.  
+
+Decision level: Founders  
+
+---
+
 ## Decision 007 – Prepare for Bank Account Opening
 
 **Date:** December 2025  
