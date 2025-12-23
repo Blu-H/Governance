@@ -1,3 +1,5 @@
+![Blu-H logo](./Public-Website/images/image0.jpeg)
+
 # Blu-H Governance
 
 This repository contains the governance framework for **Blu-H ASBL**, a non-profit association registered in Luxembourg.
