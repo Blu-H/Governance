@@ -54,7 +54,7 @@ Each policy clearly states:
 ## Status and Approval
 
 - Policies may be published in **Draft** form for transparency and review.  
-- Final approval authority rests with the ** Legal Board of Directors**.  
+- Final approval authority rests with the ** Legal Board of Directors** .  
 - Draft policies do not imply formal adoption until explicitly approved and dated.  
 
 ---
