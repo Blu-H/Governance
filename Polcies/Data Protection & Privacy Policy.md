@@ -3,7 +3,7 @@
 Organisation: **Blu-H ASBL (Luxembourg)**  
 Status: **Draft**  
 Applies to: **Blu-H ASBL**  
-Owner: **Board of Directors**  
+Owner: **Legal Board of Directors**  
 Last updated: **23 December 2025**  
 Next review: **30 June 2026**
 
