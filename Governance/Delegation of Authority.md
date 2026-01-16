@@ -104,7 +104,7 @@ Incorporate any changes to the Google document. For signing, please convert to P
 ## Next Steps
 
 This document will be drafted and reviewed by the Legal Board prior to:
-- Opening bank accounts
+- Operational use of bank accounts
 - Entering into funding agreements
 - Signing binding contracts or partnerships
 - Incorporate any changes to the Google document. For signing, please convert to PDF for officially signed framework
