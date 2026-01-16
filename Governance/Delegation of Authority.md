@@ -1,5 +1,5 @@
 DRAFT
-
+ 
 # Delegation of Authority
 
 **Status:** – DRAFT
