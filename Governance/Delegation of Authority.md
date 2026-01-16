@@ -8,9 +8,6 @@ DRAFT
 **Last updated:** 16 January 2026  
 
 ---
-
-
-```markdown
 # Governance and Delegation of Authority Framework for Blu-H
 
 **Effective Date:** [Insert Date]  
@@ -101,7 +98,6 @@ This policy facilitates efficient operations while maintaining rigorous oversigh
 *For internal updates to this framework, please refer to the [Master Google Doc](https://docs.google.com/document/d/1wgw9FXRsnLo96q5EmsSTGJUVAIMJoylDMWEdRNUjVhw/edit?tab=t.0#heading=h.cuxsnqfiifqx).*
 
 Incorporate any changes to the Google document. For signing, please convert to PDF for officially signed framework
-```
 
 ---
 
