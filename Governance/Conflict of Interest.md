@@ -2,7 +2,7 @@
 **Status:** Draft – ready for Legal Board review  
 **Applies to:** Blu-H ASBL (Luxembourg)  
 **Owner:** Legal Board (Board of Directors / Conseil d’administration)  
-**Last updated:** 23 December 2025  
+**Last updated:** 2 February 2026  
 **Next review:** 30 June 2026  
 
 ## Purpose
