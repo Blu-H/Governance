@@ -72,7 +72,7 @@ The expansion of the Legal Board is a formal process that must be conducted in s
 
 Staff roles are professional positions hired to perform day-to-day work; they are accountable to the Board but maintain operational independence.
 
-- **Executive Director (ED):** A hired professional (non-Board member). Manages the administrative engine, including HR, general recruitment, membership, income and operational workflows.
+- **Executive Director (ED):** A hired professional. Manages the administrative engine, including HR, general recruitment, membership, income and operational workflows.
 - **Science Lead:** A hired technical expert. Directs scientific strategy, ensures research integrity, and manages specialized recruitment of technical researchers.
 - **Operational & Program Staff:** Responsible for field work and execution of Board-approved projects.
 
