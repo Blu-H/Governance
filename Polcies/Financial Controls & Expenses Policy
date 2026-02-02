@@ -1,0 +1,243 @@
+# Financial Controls & Expenses Policy
+**Organisation:** Blu-H ASBL (Luxembourg)  
+**Status:** DRAFT  
+**Applies to:** Board members, staff, volunteers, contractors (where relevant)  
+**Owner:** Legal Board (with Treasurer as operational owner)  
+**Effective date:** (date)  
+**Last updated:** (date)  
+**Next review:** (date)
+
+---
+
+## 1. Purpose
+This policy defines how Blu-H controls spending, approves expenses, processes payments, and reimburses individuals. It is designed to:
+- protect Blu-H assets and reputation,
+- ensure transparency and an auditable trail,
+- prevent misuse, conflicts of interest, and fraud,
+- ensure spending aligns with Board-approved budgets and Board-approved projects.
+
+This policy works together with Blu-H’s **Delegation of Authority (DoA)** framework. If there is a conflict, the DoA prevails.
+
+---
+
+## 2. Scope
+This policy covers:
+- purchasing and supplier engagement,
+- payment methods and approval rules,
+- expense reimbursements (travel, meals, incidentals, home-office where applicable),
+- subscriptions and recurring payments,
+- documentation standards and record retention,
+- exceptions and escalation.
+
+This policy does **not** replace any donor/grant restrictions; restricted funds must follow the applicable agreement terms.
+
+---
+
+## 3. Core Financial Control Principles
+1. **Budget discipline:** Spend must be within the approved operating budget or an approved project budget.
+2. **Project-only rule for project spend:** Project costs must be attributable to a Board-approved project and coded accordingly.
+3. **No self-approval:** No one may approve their own expenses or payments.
+4. **Segregation of duties:** No single person should control a transaction end-to-end (request → approve → pay → record → reconcile).
+5. **Anti-structuring:** Transactions must not be split to bypass approval thresholds.
+6. **Dual authorisation:** Binding contracts and material payments require dual approval per DoA / bank rules.
+7. **Audit trail:** Every payment and reimbursement must be supported by adequate documentation.
+8. **Value-for-money:** Prefer competitive pricing and avoid non-essential spend.
+
+---
+
+## 4. Roles and Responsibilities
+- **Legal Board:** ultimate fiduciary responsibility; approves annual budget; approves exceptions above DoA thresholds.
+- **President:** authorised signatory; approves certain spend per DoA; ensures governance compliance.
+- **Treasurer:** financial oversight; ensures controls, bookkeeping, reconciliations, and reporting; co-approver on relevant spend.
+- **Executive Director (ED):** day-to-day operations; initiates purchases within delegated limits; ensures adherence to this policy.
+- **Science Lead:** initiates and validates technical/project purchases within delegated limits; ensures scientific relevance and integrity.
+- **Secretary:** ensures minutes/resolutions evidence authorisations; maintains governance records.
+- **Finance Admin / Bookkeeper (if appointed):** processes invoices/expense claims; maintains records; prepares reconciliations.
+
+> **Conflict of Interest:** Any actual or perceived conflict must be disclosed and the conflicted individual must be removed from approval and decision-making for that transaction.
+
+---
+
+## 5. Approval Rules (Summary)
+All approvals follow the **DoA thresholds**. Where thresholds are not yet finalised, use:
+- **Project costs:** approved only if tied to a Board-approved funded project and within that project’s approved budget line.
+- **Operating costs:** must align with the annual operating budget.
+
+**Approval matrix placeholders (to align with DoA):**
+- Up to **€[DoA-1]**: (Role A + Role B) dual approval
+- Above **€[DoA-1]**: Board approval / resolution + dual signature where required
+
+**Additional mandatory approvals regardless of value:**
+- New suppliers where due diligence is required (see Section 7)
+- Any contract with reputational, data protection, or safeguarding implications
+- Any transaction that is unusual, high-risk, or outside normal operations
+- Any spending that creates a recurring commitment (subscriptions, retainers) beyond **[X] months**
+
+---
+
+## 6. Spend Controls
+### 6.1 Permitted spending
+Blu-H funds may be used only for legitimate organisational purposes, including:
+- project delivery and scientific activities,
+- essential operations and compliance,
+- reasonable travel and meeting costs where directly linked to Blu-H work.
+
+### 6.2 Prohibited or restricted spending
+Unless explicitly approved by the Legal Board:
+- personal expenses not directly related to Blu-H work,
+- cash gifts, political donations, or lobbying spend,
+- alcohol or entertainment as a primary purpose (meals may be allowable when incidental and reasonable),
+- fines and penalties (unless exceptional circumstances with Board visibility),
+- “split” purchases to avoid approvals.
+
+### 6.3 Procurement expectations
+- Seek **best value**: for material purchases, obtain **2–3 quotes** where practical.
+- Avoid sole-source unless justified (unique capability, urgency, continuity, IP/security constraints).
+- Use preferred/approved suppliers where available.
+
+---
+
+## 7. Supplier Due Diligence 
+Before onboarding a new supplier (especially for services, data, software, consulting, or field work):
+- confirm legal entity and payment details,
+- confirm scope, deliverables, pricing, and ownership/IP terms (where relevant),
+- confirm compliance posture where needed (GDPR/data handling, security),
+- check sanctions/high-risk jurisdictions where relevant,
+- ensure a written agreement for material engagements.
+
+---
+
+## 8. Payment Methods and Controls
+### 8.1 Approved payment methods (preferred order)
+1. **Bank transfer** (preferred for invoices and contracts)
+2. **Card payment** (only where necessary for online suppliers or travel)
+3. **Payment platforms** (e.g., Stripe for donations; controlled access for payouts)
+
+**Cash payments** should be avoided. If petty cash is required, it must be explicitly authorised, capped, and reconciled monthly.
+
+### 8.2 Bank account controls
+- Bank account access must be limited to authorised signatories.
+- Dual authorisation should be enabled where possible.
+- Changes to bank mandates/signatories require Board decision and documented evidence.
+
+### 8.3 Card controls (if used)
+- Named cards only; no shared cards unless unavoidable and tightly controlled.
+- Monthly limits and merchant category restrictions where feasible.
+- Receipts required for every card transaction.
+- Lost/stolen cards must be reported immediately and cancelled.
+
+---
+
+## 9. Invoice Processing and Payment Workflow
+### 9.1 Standard workflow
+1. **Request / Purchase initiation**  
+   - Requestor confirms budget availability and correct project/operating code.
+2. **Approval**  
+   - Approver verifies: legitimacy, budget line, value-for-money, and DoA threshold compliance.
+3. **Invoice receipt & validation**  
+   - Invoice must include supplier details, date, description, and bank/payment details.
+   - Validate delivery/performance (goods received / services confirmed).
+4. **Payment preparation**  
+   - Finance Admin/ED prepares payment pack: invoice, approval evidence, coding, and supporting documents.
+5. **Payment authorisation**  
+   - Dual approval/signature as required.
+6. **Recording & filing**  
+   - Record in accounting system with correct coding (project, restriction, grant/donor tags).
+7. **Reconciliation**  
+   - Bank and card reconciled monthly; exceptions investigated promptly.
+
+### 9.2 Required documentation (“payment pack”)
+- Invoice (or equivalent receipt)
+- Evidence of approval (email, system approval, or signed form)
+- Proof of delivery/performance (where relevant)
+- Correct coding (project/operating; restricted/unrestricted)
+- For contracts: signed agreement and relevant Board resolution if required
+
+---
+
+## 10. Expense Reimbursements Policy
+### 10.1 General rules
+- Reimbursements are for **out-of-pocket** costs incurred wholly and exclusively for Blu-H work.
+- Claims must be submitted within **[30] days** of the expense (unless exceptional).
+- Claims must include **original receipts** and a clear business purpose.
+- Per-diem arrangements (if used) must be defined in writing and approved by the Treasurer.
+
+### 10.2 Allowable expenses (examples)
+- travel (economy class unless justified; rail preferred where practical),
+- accommodation (reasonable cost; safety-appropriate),
+- local transport (public transit, taxis where necessary),
+- meals while travelling or during long work sessions (reasonable and proportionate),
+- essential field supplies and small project incidentals (where pre-approved).
+
+### 10.3 Non-allowable expenses (examples)
+- personal leisure, minibar, luxury upgrades without justification,
+- commuting to a normal work location (unless explicitly agreed),
+- costs without receipts (except limited exceptions below).
+
+### 10.4 Receipt exceptions
+If a receipt is genuinely unavailable:
+- claim must include a written explanation,
+- amount must be below **€[small-amount-cap]**,
+- repeated exceptions may be declined.
+
+### 10.5 Reimbursement workflow
+1. Submit claim (form) with receipts and purpose + project/operating code
+2. Approval by authorised approver (not the claimant)
+3. Payment via bank transfer
+4. Record and reconcile
+
+---
+
+## 11. Travel and Field Work Controls (Minimum Standard)
+- Travel must be pre-approved when it exceeds **€[travel-cap]** or involves international travel.
+- For high-risk travel contexts: follow Blu-H safeguarding and security guidance (where applicable).
+- Field purchases should be planned; emergency spend must be documented and reported promptly.
+
+---
+
+## 12. Subscriptions and Recurring Commitments
+- Any new subscription requires:
+  - owner named (responsible for need and renewal),
+  - budget line confirmed,
+  - cancellation/renewal terms understood,
+  - renewal reminder recorded.
+- Auto-renew should be disabled where feasible.
+- Annual review of all subscriptions at least every **6 months**.
+
+---
+
+## 13. Exceptions and Escalation
+- Any exception to this policy must be:
+  - documented,
+  - approved at the appropriate DoA level,
+  - reported to the Treasurer (and Board where material).
+
+Suspected fraud, misuse, or irregularity must be escalated immediately to the President and Treasurer (and to the Board if material).
+
+---
+
+## 14. Records and Retention
+- Financial records (invoices, receipts, approvals, contracts, reconciliations) must be stored in the approved system of record with controlled access.
+- Retention period: **[X years]** (align to Luxembourg requirements and operational needs).
+- Records must support auditability and donor/grant reporting.
+
+---
+
+## 15. Reporting and Review Cadence
+- Monthly: bank/card reconciliation pack + exception log
+- Quarterly: budget vs actuals, restricted funds summary (if applicable)
+- Annually: financial statements, controls review, policy review
+
+---
+
+## 16. Approval
+Approved by the Blu-H Legal Board of Directors:
+
+___________________________  
+President
+
+___________________________  
+Treasurer
+
+___________________________  
+Secretary
